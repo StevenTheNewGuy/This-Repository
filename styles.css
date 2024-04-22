@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Title Here</title>
+    <style>
+        /* Resetting default browser styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Basic styling */
+        body {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fff;
+        }
+
+        /* Links */
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Headings */
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: bold;
+        }
+
+        /* Paragraphs */
+        p {
+            margin-bottom: 1em;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin-bottom: 1em;
+        }
+
+        /* Images */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        audio::-webkit-media-controls {
+            /* Set a custom width */
+            width: 80px; /* Adjust this value as needed */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Your content goes here -->
+
+</body>
+</html>
